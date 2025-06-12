@@ -103,9 +103,9 @@ Ensure you have the following installed:
 
 ## Features
 
-- ✅ Fine-tuned LLM benchmarking (Phi-2, StarCoder-2, CodeGen)
+- ✅ Fine-tuned LLM benchmarking (Phi-2)
 - ✅ Automated Verilog RTL code generation
-- ✅ Syntax and functionality verification through test-benches
+- ✅ Syntax and functionality verification
 - ✅ Easily extendable for more models and datasets
 
 ---
